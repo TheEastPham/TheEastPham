@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheEastPham
-- 👀 I’m interested in BE and DE
-- 🌱 I’m currently learning VUE JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @TheEastPham.
+- 👀 I’m interested in BE and DE.
+- 🌱 I’m currently learning Azure 204.
+- 💞️ I’m happy.
+- 📫 Wait me.
