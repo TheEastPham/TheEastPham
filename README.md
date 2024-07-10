@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheEastPham.
 - 👀 I’m interested in BE and DE.
-- 🌱 I’m currently learning Azure 204.
+- 🌱 I’m currently learning Azure.
 - 💞️ I’m happy.
 - 📫 Wait me.
